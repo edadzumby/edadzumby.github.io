@@ -1,0 +1,37 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 100vh}
+.u-section-1 .u-layout-wrap-1 {width: 1136px; margin: 60px auto}
+.u-section-1 .u-layout-cell-1 {min-height: 386px}
+.u-section-1 .u-container-layout-1 {padding: 0}
+.u-section-1 .u-group-1 {width: 800px; min-height: 286px; background-image: none; margin: 0 auto}
+.u-section-1 .u-container-layout-2 {padding: 40px 60px}
+.u-section-1 .u-text-1 {font-weight: 800; margin: 4px 0 0}
+.u-section-1 .u-text-2 {line-height: 1.9; font-size: 1.25rem; margin: 30px 0 0}
+.u-section-1 .u-layout-cell-2 {min-height: 330px}
+.u-section-1 .u-container-layout-3 {padding: 0}
+.u-section-1 .u-group-2 {width: 800px; min-height: 230px; background-image: none; margin: 0 auto}
+.u-section-1 .u-container-layout-4 {padding: 40px 40px 60px 60px}
+.u-section-1 .u-text-3 {font-weight: 800; margin: 4px 0 0}
+.u-section-1 .u-text-4 {line-height: 1.9; font-size: 1.25rem; margin: 30px 0 0} 
+
+@media (max-width: 1199px){ .u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial; width: auto}
+.u-section-1 .u-layout-cell-1 {min-height: 303px}
+.u-section-1 .u-layout-cell-2 {min-height: 257px} }
+
+@media (max-width: 991px){ .u-section-1 .u-layout-cell-1 {min-height: NaNpx}
+.u-section-1 .u-group-1 {width: 720px}
+.u-section-1 .u-layout-cell-2 {min-height: NaNpx}
+.u-section-1 .u-group-2 {width: 720px}
+.u-section-1 .u-container-layout-4 {padding-right: 60px; padding-bottom: 30px} }
+
+@media (max-width: 767px){ .u-section-1 .u-layout-cell-1 {min-height: 100px}
+.u-section-1 .u-group-1 {width: 540px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px}
+.u-section-1 .u-group-2 {width: 540px}
+.u-section-1 .u-container-layout-4 {padding-bottom: 40px} }
+
+@media (max-width: 575px){ .u-section-1 .u-group-1 {min-height: 420px; margin-right: initial; margin-left: initial; width: auto}
+.u-section-1 .u-container-layout-2 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-group-2 {min-height: 273px; margin-top: -61px; margin-right: initial; margin-left: initial; width: auto}
+.u-section-1 .u-container-layout-4 {padding-left: 30px; padding-right: 30px} }box-shadow: 20px 20px 50px #00d2c6, 
+            -30px -30px 60px #00ffff;
