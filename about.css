@@ -30,7 +30,8 @@
 .u-section-1 .u-group-2 {width: 540px}
 .u-section-1 .u-container-layout-4 {padding-bottom: 40px} }
 
-@media (max-width: 575px){ .u-section-1 .u-group-1 {min-height: 420px; margin-right: initial; margin-left: initial; width: auto}
+@media (max-width: 575px){ .u-section-1 .u-layout-wrap-1 {margin-top: 93px; margin-bottom: 27px; width: auto; margin-right: initial; margin-left: initial}
+.u-section-1 .u-group-1 {min-height: 420px; margin-right: initial; margin-left: initial; width: auto}
 .u-section-1 .u-container-layout-2 {padding-left: 30px; padding-right: 30px}
 .u-section-1 .u-group-2 {min-height: 273px; margin-top: -61px; margin-right: initial; margin-left: initial; width: auto}
 .u-section-1 .u-container-layout-4 {padding-left: 30px; padding-right: 30px} }box-shadow: 20px 20px 50px #00d2c6, 

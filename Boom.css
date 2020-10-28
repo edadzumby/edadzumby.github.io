@@ -8,8 +8,9 @@
 @media (max-width: 991px){ .u-section-1 .u-group-1 {min-height: 528px; margin-right: initial; margin-left: initial; width: auto}
 .u-section-1 .u-container-layout-1 {padding: 30px} }
 
-@media (max-width: 767px){ .u-section-1 .u-group-1 {min-height: 718px; width: auto; margin-right: initial; margin-left: initial}
+@media (max-width: 767px){ .u-section-1 .u-group-1 {min-height: 718px; margin-top: 88px; margin-bottom: 51px; width: auto; margin-right: initial; margin-left: initial}
 .u-section-1 .u-container-layout-1 {padding-left: 60px; padding-right: 60px} }
 
-@media (max-width: 575px){ .u-section-1 .u-group-1 {min-height: 991px; width: auto; margin-right: initial; margin-left: initial}
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 1149px}
+.u-section-1 .u-group-1 {min-height: 1029px; margin-top: 85px; margin-bottom: 35px; width: auto; margin-right: initial; margin-left: initial}
 .u-section-1 .u-container-layout-1 {padding: 40px 30px} }
